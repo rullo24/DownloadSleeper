@@ -1,0 +1,4 @@
+
+2023-06-21 15:46:12.582287: 'NoneType' object has no attribute '_resetTimer'
+2023-06-21 15:50:22.735798: 'NoneType' object has no attribute 'endTime'
+2023-06-21 16:16:10.925985: module 'networkSpeed' has no attribute 'downloadSpeed'

@@ -1,0 +1,4 @@
+
+2023-06-24 15:19:40.426089: 'NoneType' object has no attribute 'endTime'
+2023-07-21 20:09:18.141791: 'NoneType' object has no attribute 'endTime'
+2023-08-05 18:06:54.685047: 'NoneType' object has no attribute 'endTime'
